@@ -8,5 +8,5 @@ public class Calculator {
     Calculator(ArrayList<Integer> input){
         this.numbers = input;
     }
-    
+
 }
